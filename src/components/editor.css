@@ -6,3 +6,8 @@
   border: 1px solid black;
   height: 40vh;
 }
+.title {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+}
